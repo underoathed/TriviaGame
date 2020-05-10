@@ -44,5 +44,14 @@ function timerStart(){
 
 }
 
+//The page will reveal the number of questions that players answer correctly and incorrectly.
+function grade(){
+var selectedAnswer;
+var correctAnswers = 0;
+var incorrectAnswers = 0;
+var count = 0
+if (){
+
+}
 timerStart();
 
